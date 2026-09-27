@@ -8,8 +8,8 @@ I love movies 🍿, salsa dancing 🕺🏼 and working out 🏋️.
 
 ## Contact
 
-[![linkedin](https://img.shields.io/badge/jogarobi-linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=010409)](https://linkedin.com/in/m4nespin)
-[![Email](https://img.shields.io/badge/rodriguezbidojosegabriel@gmail.com-email-7a5aff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=010409)](mailto:m4nespin@pm.me)
+[![linkedin](https://img.shields.io/badge/jogarobi-linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=010409)](https://www.linkedin.com/in/jogarobi/)
+[![Email](https://img.shields.io/badge/rodriguezbidojosegabriel@gmail.com-email-7a5aff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=010409)](mailto:rodriguezbidojosegabriel@gmail.com)
 
 ## 🧰 Stack
 
